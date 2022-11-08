@@ -1,0 +1,5 @@
+﻿lidar_camera_calibration:
+  camera_frame_topic: /hikcam/image 
+  camera_info_topic: /NaN             # Not recommanded. Just load from file.
+  velodyne_topic: /horLidar/hor_lidar_points_cloud    # TODO: 
+
